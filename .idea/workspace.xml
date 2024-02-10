@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2782bf78-f43b-45e5-91d6-2e8dc079138c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/MachineLearningI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2bxyHe2boBwQOc00X2xYjysiNb6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Aula_1_Introducao_ao_aprendizado_de_maquina.executor": "Run",
+    "Python.Aula_2_Modelos_de_aprendizagem_de_maquina.executor": "Run",
+    "Python.Aula_3_Densidades_probabilisticas.executor": "Run",
+    "Python.Aula_4_Redes_neurais.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.Aula_4_Redes_neurais">
+    <configuration name="Aula_1_Introducao_ao_aprendizado" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MachineLearningI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidade_I" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="G:\.shortcut-targets-by-id\1-0eJugp2mhHVgylXYxSrV79OPbp72CNB\Cloud Drive\Documentos\Arquivos PDF, PPT, DOC\Ciências de Dados - Anhanguera Ampli\Inteligência Artificial\Machine Learning I\MachineLearningI\Unidade_I\Aula_1_Introducao_ao_aprendizado.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Aula_2_Modelos_de_aprendizagem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MachineLearningI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidade_I" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="G:\.shortcut-targets-by-id\1-0eJugp2mhHVgylXYxSrV79OPbp72CNB\Cloud Drive\Documentos\Arquivos PDF, PPT, DOC\Ciências de Dados - Anhanguera Ampli\Inteligência Artificial\Machine Learning I\MachineLearningI\Unidade_I\Aula_2_Modelos_de_aprendizagem.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Aula_3_Densidades_probabilisticas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MachineLearningI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidade_I" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unidade_I/Aula_3_Densidades_probabilisticas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Aula_4_Redes_neurais" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MachineLearningI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidade_I" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unidade_I/Aula_4_Redes_neurais.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Aula_4_Redes_neurais" />
+        <item itemvalue="Python.Aula_3_Densidades_probabilisticas" />
+        <item itemvalue="Python.Aula_2_Modelos_de_aprendizagem_de_maquina" />
+        <item itemvalue="Python.Aula_1_Introducao_ao_aprendizado_de_maquina" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2782bf78-f43b-45e5-91d6-2e8dc079138c" name="Changes" comment="" />
+      <created>1707170938087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707170938087</updated>
+      <workItem from="1707170982870" duration="5852000" />
+      <workItem from="1707184721850" duration="770000" />
+      <workItem from="1707270677292" duration="9143000" />
+      <workItem from="1707283058235" duration="558000" />
+      <workItem from="1707283806111" duration="2170000" />
+      <workItem from="1707421146508" duration="8362000" />
+      <workItem from="1707521717769" duration="7345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
+    <option name="historyDtoById">
+      <map>
+        <entry key="448dc0">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_I/Aula_4_Redes_neurais.py" />
+                </list>
+              </option>
+              <option name="id" value="448dc0" />
+              <option name="initiateTms" value="1707532091769" />
+              <option name="request" value="crie um modelo simples com plotagem de uma rede neural" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Certainly! Here's an example of how you can create a simple neural network model using the `matplotlib` library for plotting:&#10;&#10;```python&#10;import matplotlib.pyplot as plt&#10;&#10;# Define the neural network architecture&#10;input_size = 2&#10;hidden_size = 4&#10;output_size = 1&#10;&#10;# Create the figure and axes for plotting&#10;fig, ax = plt.subplots()&#10;&#10;# Plot the neural network architecture&#10;ax.axis('off')&#10;ax.set_aspect('equal')&#10;&#10;# Draw the input layer&#10;input_layer = plt.Circle((0.5, 0.7), 0.1, color='blue')&#10;ax.add_patch(input_layer)&#10;ax.text(0.5, 0.7, 'Input', ha='center', va='center')&#10;&#10;# Draw the hidden layer&#10;hidden_layer = plt.Circle((0.5, 0.5), 0.1, color='green')&#10;ax.add_patch(hidden_layer)&#10;ax.text(0.5, 0.5, 'Hidden', ha='center', va='center')&#10;&#10;# Draw the output layer&#10;output_layer = plt.Circle((0.5, 0.3), 0.1, color='red')&#10;ax.add_patch(output_layer)&#10;ax.text(0.5, 0.3, 'Output', ha='center', va='center')&#10;&#10;# Draw the connections between layers&#10;ax.arrow(0.5, 0.7, 0.5, 0, head_width=0.05, head_length=0.05, fc='black', ec='black')&#10;ax.arrow(0.5, 0.5, 0.5, 0, head_width=0.05, head_length=0.05, fc='black', ec='black')&#10;&#10;# Set the limits of the plot&#10;ax.set_xlim([0, 1])&#10;ax.set_ylim([0, 1])&#10;&#10;# Show the plot&#10;plt.show()&#10;```&#10;&#10;This code will create a simple visualization of a neural network with an input layer, a hidden layer, and an output layer. The circles represent the neurons in each layer, and the arrows represent the connections between the neurons. You can customize the size, color, and position of the layers and neurons to fit your needs." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1707532098275" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_I/Aula_4_Redes_neurais.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="883ef2">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_I/Aula_4_Redes_neurais.py" />
+                </list>
+              </option>
+              <option name="id" value="883ef2" />
+              <option name="initiateTms" value="1707523041017" />
+              <option name="request" value="crie um exemplo visual de rede neural" />
+              <option name="response" value="" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1707523067303" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_I/Aula_4_Redes_neurais.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="c02a4f">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_I/Aula_4_Redes_neurais.py" />
+                </list>
+              </option>
+              <option name="id" value="c02a4f" />
+              <option name="initiateTms" value="1707532173992" />
+              <option name="request" value="crie um modelo simples com plotagem de um perceptron" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Certainly! Here's an example of how you can create a simple perceptron model using the `matplotlib` library for plotting:&#10;&#10;```python&#10;import matplotlib.pyplot as plt&#10;&#10;# Define the perceptron architecture&#10;input_size = 2&#10;output_size = 1&#10;&#10;# Create the figure and axes for plotting&#10;fig, ax = plt.subplots()&#10;&#10;# Plot the perceptron architecture&#10;ax.axis('off')&#10;ax.set_aspect('equal')&#10;&#10;# Draw the input layer&#10;input_layer = plt.Circle((0.5, 0.5), 0.1, color='blue')&#10;ax.add_patch(input_layer)&#10;ax.text(0.5, 0.5, 'Input', ha='center', va='center')&#10;&#10;# Draw the output layer&#10;output_layer = plt.Circle((0.8, 0.5), 0.1, color='red')&#10;ax.add_patch(output_layer)&#10;ax.text(0.8, 0.5, 'Output', ha='center', va='center')&#10;&#10;# Draw the connection between layers&#10;ax.arrow(0.5, 0.5, 0.3, 0, head_width=0.05, head_length=0.05, fc='black', ec='black')&#10;&#10;# Set the limits of the plot&#10;ax.set_xlim([0, 1])&#10;ax.set_ylim([0, 1])&#10;&#10;# Show the plot&#10;plt.show()&#10;```&#10;&#10;This code will create a simple visualization of a perceptron with an input layer and an output layer. The circle represents the neuron in each layer, and the arrow represents the connection between the input and output layers. You can customize the size, color, and position of the layers and neurons to fit your needs." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1707532178280" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_I/Aula_4_Redes_neurais.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="c25082">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_I/Aula_3_Densidades_probabilisticas.py" />
+                </list>
+              </option>
+              <option name="id" value="c25082" />
+              <option name="initiateTms" value="1707439230838" />
+              <option name="request" value="formate com apenas duas casas decimais, use fstrings" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="To format the probabilities with only two decimal places using f-strings, you can use the `:.2f` format specifier. Here's the modified code:&#10;&#10;```python&#10;probabilidade_homem = round(probabilidade_homem, 2)&#10;probabilidade_mulher = round(probabilidade_mulher, 2)&#10;&#10;print(f&quot;Probabilidade de ser homem: {probabilidade_homem:.2f}&quot;)&#10;print(f&quot;Probabilidade de ser mulher: {probabilidade_mulher:.2f}&quot;)&#10;```&#10;&#10;This will format the probabilities with two decimal places using f-strings and the `:.2f` format specifier." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1707439233406" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_I/Aula_3_Densidades_probabilisticas.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="d686f8">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_I/Aula_3_Densidades_probabilisticas.py" />
+                </list>
+              </option>
+              <option name="id" value="d686f8" />
+              <option name="initiateTms" value="1707439200310" />
+              <option name="request" value="defina apenas duas casas decimais:&#9;print(&quot;Probabilidade de ser homem:&quot;, probabilidade_homem)&#10;print(&quot;Probabilidade de ser mulher:&quot;, probabilidade_mulher)&#10;" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="To define the probabilities with only two decimal places, you can use the `round()` function. Here's the modified code:&#10;&#10;```python&#10;probabilidade_homem = round(probabilidade_homem, 2)&#10;probabilidade_mulher = round(probabilidade_mulher, 2)&#10;&#10;print(&quot;Probabilidade de ser homem:&quot;, probabilidade_homem)&#10;print(&quot;Probabilidade de ser mulher:&quot;, probabilidade_mulher)&#10;```&#10;&#10;This will round the probabilities to two decimal places before printing them." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1707439203702" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_I/Aula_3_Densidades_probabilisticas.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="fd4491">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_I/Aula_4_Redes_neurais.py" />
+                </list>
+              </option>
+              <option name="id" value="fd4491" />
+              <option name="initiateTms" value="1707534596134" />
+              <option name="request" value="crie um algoritmo simples de backpropagation" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Certainly! Here's a simple implementation of the backpropagation algorithm in Python:&#10;&#10;```python&#10;import numpy as np&#10;&#10;# Define the sigmoid activation function&#10;def sigmoid(x):&#10;    return 1 / (1 + np.exp(-x))&#10;&#10;# Define the derivative of the sigmoid function&#10;def sigmoid_derivative(x):&#10;    return sigmoid(x) * (1 - sigmoid(x))&#10;&#10;# Define the backpropagation algorithm&#10;def backpropagation(inputs, targets, learning_rate, num_epochs):&#10;    # Initialize random weights and biases&#10;    input_size = inputs.shape[1]&#10;    hidden_size = 4&#10;    output_size = targets.shape[1]&#10;    W1 = np.random.randn(input_size, hidden_size)&#10;    b1 = np.zeros((1, hidden_size))&#10;    W2 = np.random.randn(hidden_size, output_size)&#10;    b2 = np.zeros((1, output_size))&#10;&#10;    # Training loop&#10;    for epoch in range(num_epochs):&#10;        # Forward pass&#10;        hidden_layer = sigmoid(np.dot(inputs, W1) + b1)&#10;        output_layer = sigmoid(np.dot(hidden_layer, W2) + b2)&#10;&#10;        # Backward pass&#10;        output_error = targets - output_layer&#10;        output_delta = output_error * sigmoid_derivative(output_layer)&#10;        hidden_error = np.dot(output_delta, W2.T)&#10;        hidden_delta = hidden_error * sigmoid_derivative(hidden_layer)&#10;&#10;        # Update weights and biases&#10;        W2 += learning_rate * np.dot(hidden_layer.T, output_delta)&#10;        b2 += learning_rate * np.sum(output_delta, axis=0, keepdims=True)&#10;        W1 += learning_rate * np.dot(inputs.T, hidden_delta)&#10;        b1 += learning_rate * np.sum(hidden_delta, axis=0, keepdims=True)&#10;&#10;    return W1, b1, W2, b2&#10;&#10;# Example usage&#10;inputs = np.array([[0, 0], [0, 1], [1, 0], [1, 1]])&#10;targets = np.array([[0], [1], [1], [0]])&#10;learning_rate = 0.1&#10;num_epochs = 10000&#10;&#10;W1, b1, W2, b2 = backpropagation(inputs, targets, learning_rate, num_epochs)&#10;&#10;# Print the final weights and biases&#10;print(&quot;Final weights and biases:&quot;)&#10;print(&quot;W1:&quot;, W1)&#10;print(&quot;b1:&quot;, b1)&#10;print(&quot;W2:&quot;, W2)&#10;print(&quot;b2:&quot;, b2)&#10;```&#10;&#10;In this example, we define the sigmoid activation function and its derivative. Then, we implement the backpropagation algorithm, which consists of a forward pass and a backward pass. During the training loop, the weights and biases are updated based on the calculated errors and deltas. Finally, we use the backpropagation function to train a simple neural network to solve the XOR problem. The final weights and biases are printed at the end." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1707534605880" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_I/Aula_4_Redes_neurais.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MachineLearningI$Aula_4_Redes_neurais.coverage" NAME="Aula_4_Redes_neurais Coverage Results" MODIFIED="1707534668741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_I" />
+    <SUITE FILE_PATH="coverage/MachineLearningI$Aula_3_Densidades_probabilisticas.coverage" NAME="Aula_3_Densidades_probabilisticas Coverage Results" MODIFIED="1707439309723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_I" />
+    <SUITE FILE_PATH="coverage/MachineLearningI$Aula_1_Introducao_ao_aprendizado_de_maquina.coverage" NAME="Aula_1_Introducao_ao_aprendizado_de_maquina Coverage Results" MODIFIED="1707285976015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_I" />
+    <SUITE FILE_PATH="coverage/MachineLearningI$Aula_2_Modelos_de_aprendizagem_de_maquina.coverage" NAME="Aula_2_Modelos_de_aprendizagem_de_maquina Coverage Results" MODIFIED="1707286105873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_I" />
+  </component>
+</project>
