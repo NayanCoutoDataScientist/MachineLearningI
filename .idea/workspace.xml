@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2782bf78-f43b-45e5-91d6-2e8dc079138c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/MachineLearningI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2782bf78-f43b-45e5-91d6-2e8dc079138c" name="Changes" comment="Unidade_I">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,12 +40,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Aula_1_Introducao_ao_aprendizado_de_maquina.executor": "Run",
+    "Python.Aula_1_Teoria_da_probabilidade.executor": "Run",
     "Python.Aula_2_Modelos_de_aprendizagem_de_maquina.executor": "Run",
     "Python.Aula_3_Densidades_probabilisticas.executor": "Run",
     "Python.Aula_4_Redes_neurais.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "G:/.shortcut-targets-by-id/1-0eJugp2mhHVgylXYxSrV79OPbp72CNB/Cloud Drive/Documentos/Arquivos PDF, PPT, DOC/CURSOS/Super Academia BI/Linguagem R",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,7 +56,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Aula_4_Redes_neurais">
+  <component name="RunManager" selected="Python.Aula_1_Teoria_da_probabilidade">
     <configuration name="Aula_1_Introducao_ao_aprendizado" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MachineLearningI" />
       <option name="ENV_FILES" value="" />
@@ -76,6 +72,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="G:\.shortcut-targets-by-id\1-0eJugp2mhHVgylXYxSrV79OPbp72CNB\Cloud Drive\Documentos\Arquivos PDF, PPT, DOC\Ciências de Dados - Anhanguera Ampli\Inteligência Artificial\Machine Learning I\MachineLearningI\Unidade_I\Aula_1_Introducao_ao_aprendizado.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Aula_1_Teoria_da_probabilidade" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MachineLearningI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidade_II" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unidade_II/Aula_1_Teoria_da_probabilidade.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,10 +174,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aula_1_Teoria_da_probabilidade" />
         <item itemvalue="Python.Aula_4_Redes_neurais" />
         <item itemvalue="Python.Aula_3_Densidades_probabilisticas" />
-        <item itemvalue="Python.Aula_2_Modelos_de_aprendizagem_de_maquina" />
-        <item itemvalue="Python.Aula_1_Introducao_ao_aprendizado_de_maquina" />
       </list>
     </recent_temporary>
   </component>
@@ -183,16 +201,66 @@
       <workItem from="1707283058235" duration="558000" />
       <workItem from="1707283806111" duration="2170000" />
       <workItem from="1707421146508" duration="8362000" />
-      <workItem from="1707521717769" duration="7345000" />
+      <workItem from="1707521717769" duration="8005000" />
+      <workItem from="1707683072034" duration="1247000" />
+      <workItem from="1707738932559" duration="10515000" />
     </task>
+    <task id="LOCAL-00001" summary="Unidade_I">
+      <option name="closed" value="true" />
+      <created>1707537186229</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707537186229</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Unidade_I" />
+    <option name="LAST_COMMIT_MESSAGE" value="Unidade_I" />
+  </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
       <map>
+        <entry key="297707">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_II/Aula_1_Teoria_da_probabilidade.py" />
+                </list>
+              </option>
+              <option name="id" value="297707" />
+              <option name="initiateTms" value="1707753044912" />
+              <option name="request" value="crie um exemplo de código para calclar a probabilidade de um evento A ocorrer visto que B já ocorreu com base neste problema: Suponha que o exame para detectar câncer de pele funcione da seguinte maneira:&#10;&#10;1% dos pacientes têm câncer de pele (então, 99% dos pacientes não têm).&#10;80% dos exames detectam o câncer quando ele existe (então, 20% dos exames apresentam falha).&#10;9,6% dos exames detectam o câncer quando ele não existe (então, 90,4% apresentam corretamente um resultado negativo).&#10;&#10;Suponha que um paciente realizou o exame e teve um resultado positivo, indicando que ele possui câncer de pele. Nesse sentido, quais as chances do paciente realmente ter câncer de pele, dado que o exame teve resultado positivo?" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Para calcular a probabilidade de um paciente realmente ter câncer de pele, dado que o exame teve resultado positivo, podemos utilizar o Teorema de Bayes. Vamos chamar o evento de ter câncer de pele de A e o evento de resultado positivo no exame de B.&#10;&#10;De acordo com o enunciado, temos as seguintes informações:&#10;&#10;P(A) = 0,01 (probabilidade de um paciente ter câncer de pele)&#10;P(B|A) = 0,8 (probabilidade de o exame detectar o câncer quando ele existe)&#10;P(B|¬A) = 0,096 (probabilidade de o exame detectar o câncer quando ele não existe)&#10;&#10;Queremos calcular P(A|B), ou seja, a probabilidade de um paciente ter câncer de pele dado que o exame teve resultado positivo.&#10;&#10;Usando o Teorema de Bayes, temos:&#10;&#10;P(A|B) = (P(A) * P(B|A)) / P(B)&#10;&#10;Para calcular P(B), podemos usar a lei da probabilidade total:&#10;&#10;P(B) = P(A) * P(B|A) + P(¬A) * P(B|¬A)&#10;&#10;Substituindo os valores, temos:&#10;&#10;P(B) = 0,01 * 0,8 + 0,99 * 0,096&#10;&#10;Agora podemos calcular P(A|B):&#10;&#10;P(A|B) = (0,01 * 0,8) / (0,01 * 0,8 + 0,99 * 0,096)&#10;&#10;Vamos calcular esse valor em Python:&#10;&#10;```python&#10;P_A = 0.01&#10;P_B_given_A = 0.8&#10;P_B_given_not_A = 0.096&#10;&#10;P_B = P_A * P_B_given_A + (1 - P_A) * P_B_given_not_A&#10;&#10;P_A_given_B = (P_A * P_B_given_A) / P_B&#10;&#10;print(&quot;A probabilidade de o paciente ter câncer de pele dado que o exame teve resultado positivo é:&quot;, P_A_given_B)&#10;```&#10;&#10;A probabilidade de o paciente realmente ter câncer de pele, dado que o exame teve resultado positivo, será impressa no console." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1707753053494" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_II/Aula_1_Teoria_da_probabilidade.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
         <entry key="448dc0">
           <value>
             <ChatHistoryModel>
@@ -344,5 +412,6 @@
     <SUITE FILE_PATH="coverage/MachineLearningI$Aula_3_Densidades_probabilisticas.coverage" NAME="Aula_3_Densidades_probabilisticas Coverage Results" MODIFIED="1707439309723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_I" />
     <SUITE FILE_PATH="coverage/MachineLearningI$Aula_1_Introducao_ao_aprendizado_de_maquina.coverage" NAME="Aula_1_Introducao_ao_aprendizado_de_maquina Coverage Results" MODIFIED="1707285976015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_I" />
     <SUITE FILE_PATH="coverage/MachineLearningI$Aula_2_Modelos_de_aprendizagem_de_maquina.coverage" NAME="Aula_2_Modelos_de_aprendizagem_de_maquina Coverage Results" MODIFIED="1707286105873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_I" />
+    <SUITE FILE_PATH="coverage/MachineLearningI$Aula_1_Teoria_da_probabilidade.coverage" NAME="Aula_1_Teoria_da_probabilidade Coverage Results" MODIFIED="1707753573223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_II" />
   </component>
 </project>
