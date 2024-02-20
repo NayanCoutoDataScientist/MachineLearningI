@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2782bf78-f43b-45e5-91d6-2e8dc079138c" name="Changes" comment="Unidade_II_2">
+    <list default="true" id="2782bf78-f43b-45e5-91d6-2e8dc079138c" name="Changes" comment="Unidade_II_4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +45,7 @@
     "Python.Aula_2_Probabilidade_Bayesiana.executor": "Run",
     "Python.Aula_3_Decisao_em_ML.executor": "Run",
     "Python.Aula_3_Densidades_probabilisticas.executor": "Run",
+    "Python.Aula_3_Distribuicoes_Probabilisticas.executor": "Run",
     "Python.Aula_4_Modelos_de_selecao.executor": "Run",
     "Python.Aula_4_Redes_neurais.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -65,7 +66,7 @@
       <recent name="G:\.shortcut-targets-by-id\1-0eJugp2mhHVgylXYxSrV79OPbp72CNB\Cloud Drive\Documentos\Arquivos PDF, PPT, DOC\Ciências de Dados - Anhanguera Ampli\Inteligência Artificial\Machine Learning I\MachineLearningI\Unidade_II" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Aula_4_Modelos_de_selecao">
+  <component name="RunManager" selected="Python.Aula_3_Distribuicoes_Probabilisticas">
     <configuration name="Aula_1_Teoria_da_probabilidade" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MachineLearningI" />
       <option name="ENV_FILES" value="" />
@@ -135,6 +136,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Aula_3_Distribuicoes_Probabilisticas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MachineLearningI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidade_III" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unidade_III/Aula_3_Distribuicoes_Probabilisticas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Aula_4_Modelos_de_selecao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MachineLearningI" />
       <option name="ENV_FILES" value="" />
@@ -158,36 +182,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Aula_4_Redes_neurais" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MachineLearningI" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidade_I" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unidade_I/Aula_4_Redes_neurais.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aula_3_Distribuicoes_Probabilisticas" />
         <item itemvalue="Python.Aula_4_Modelos_de_selecao" />
         <item itemvalue="Python.Aula_3_Decisao_em_ML" />
         <item itemvalue="Python.Aula_2_Probabilidade_Bayesiana" />
         <item itemvalue="Python.Aula_1_Teoria_da_probabilidade" />
-        <item itemvalue="Python.Aula_4_Redes_neurais" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +221,8 @@
       <workItem from="1708029212942" duration="8357000" />
       <workItem from="1708047262160" duration="1024000" />
       <workItem from="1708048681406" duration="6642000" />
-      <workItem from="1708127904559" duration="6685000" />
+      <workItem from="1708127904559" duration="6938000" />
+      <workItem from="1708384539415" duration="9034000" />
     </task>
     <task id="LOCAL-00001" summary="Unidade_I">
       <option name="closed" value="true" />
@@ -254,7 +256,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707885359119</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Unidade_II_4">
+      <option name="closed" value="true" />
+      <created>1708143533419</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708143533419</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,7 +285,8 @@
     <MESSAGE value="Unidade_I" />
     <MESSAGE value="Unidade_II_1" />
     <MESSAGE value="Unidade_II_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Unidade_II_2" />
+    <MESSAGE value="Unidade_II_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Unidade_II_4" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
@@ -747,5 +758,6 @@
     <SUITE FILE_PATH="coverage/MachineLearningI$Aula_2_Probabilidade_Bayesiana.coverage" NAME="Aula_2_Probabilidade_Bayesiana Coverage Results" MODIFIED="1707885166314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_II" />
     <SUITE FILE_PATH="coverage/MachineLearningI$Aula_4_Modelos_de_selecao.coverage" NAME="Aula_4_Modelos_de_selecao Coverage Results" MODIFIED="1708143108419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_II" />
     <SUITE FILE_PATH="coverage/MachineLearningI$Aula_1_Teoria_da_probabilidade.coverage" NAME="Aula_1_Teoria_da_probabilidade Coverage Results" MODIFIED="1707753573223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_II" />
+    <SUITE FILE_PATH="coverage/MachineLearningI$Aula_3_Distribuicoes_Probabilisticas.coverage" NAME="Aula_3_Distribuicoes_Probabilisticas Coverage Results" MODIFIED="1708405760958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_III" />
   </component>
 </project>
