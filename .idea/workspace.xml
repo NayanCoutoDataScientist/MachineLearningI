@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2782bf78-f43b-45e5-91d6-2e8dc079138c" name="Changes" comment="Unidade_II_4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="2782bf78-f43b-45e5-91d6-2e8dc079138c" name="Changes" comment="Unidade_III_1">
+      <change beforePath="$PROJECT_DIR$/Unidade_III/Aula_3_Distribuicoes_Probabilisticas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Unidade_III/Aula_1_Distribuicoes_Probabilisticas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,30 @@
       <recent name="G:\.shortcut-targets-by-id\1-0eJugp2mhHVgylXYxSrV79OPbp72CNB\Cloud Drive\Documentos\Arquivos PDF, PPT, DOC\Ciências de Dados - Anhanguera Ampli\Inteligência Artificial\Machine Learning I\MachineLearningI\Unidade_II" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Aula_3_Distribuicoes_Probabilisticas">
+  <component name="RunManager" selected="Python.Aula_1_Distribuicoes_Probabilisticas">
+    <configuration name="Aula_1_Distribuicoes_Probabilisticas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MachineLearningI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidade_III" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="G:\.shortcut-targets-by-id\1-0eJugp2mhHVgylXYxSrV79OPbp72CNB\Cloud Drive\Documentos\Arquivos PDF, PPT, DOC\Ciências de Dados - Anhanguera Ampli\Inteligência Artificial\Machine Learning I\MachineLearningI\Unidade_III\Aula_1_Distribuicoes_Probabilisticas.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Aula_1_Teoria_da_probabilidade" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MachineLearningI" />
       <option name="ENV_FILES" value="" />
@@ -136,29 +159,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Aula_3_Distribuicoes_Probabilisticas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MachineLearningI" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidade_III" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unidade_III/Aula_3_Distribuicoes_Probabilisticas.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Aula_4_Modelos_de_selecao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MachineLearningI" />
       <option name="ENV_FILES" value="" />
@@ -184,7 +184,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Aula_3_Distribuicoes_Probabilisticas" />
+        <item itemvalue="Python.Aula_1_Distribuicoes_Probabilisticas" />
         <item itemvalue="Python.Aula_4_Modelos_de_selecao" />
         <item itemvalue="Python.Aula_3_Decisao_em_ML" />
         <item itemvalue="Python.Aula_2_Probabilidade_Bayesiana" />
@@ -222,7 +222,7 @@
       <workItem from="1708047262160" duration="1024000" />
       <workItem from="1708048681406" duration="6642000" />
       <workItem from="1708127904559" duration="6938000" />
-      <workItem from="1708384539415" duration="9034000" />
+      <workItem from="1708384539415" duration="9641000" />
     </task>
     <task id="LOCAL-00001" summary="Unidade_I">
       <option name="closed" value="true" />
@@ -264,7 +264,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708143533419</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Unidade_III_1">
+      <option name="closed" value="true" />
+      <created>1708405986135</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708405986135</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,7 +294,8 @@
     <MESSAGE value="Unidade_II_1" />
     <MESSAGE value="Unidade_II_2" />
     <MESSAGE value="Unidade_II_4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Unidade_II_4" />
+    <MESSAGE value="Unidade_III_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Unidade_III_1" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
@@ -722,6 +731,30 @@
             </ChatHistoryModel>
           </value>
         </entry>
+        <entry key="fbcc52">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_III/Aula_3_Distribuicoes_Probabilisticas.py" />
+                </list>
+              </option>
+              <option name="id" value="fbcc52" />
+              <option name="initiateTms" value="1708405732350" />
+              <option name="request" value="formate com 2 casas decimais: print(f'O resultado da distribuição de probabilidade é {p_x}, ou {p_x100}% clientes em uma hora selecionada de forma aleatória.')" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Claro! Vou formatar o resultado da distribuição de probabilidade com 2 casas decimais. Aqui está o código atualizado:&#10;&#10;```python&#10;import math&#10;&#10;x = 2&#10;l = 5&#10;&#10;p_x = ((l**x) * (math.e**(-l))) / math.factorial(x)&#10;p_x100 = p_x * 100&#10;&#10;print(f'O resultado da distribuição de probabilidade é {p_x:.2f}, ou {p_x100:.2f}% clientes em uma hora selecionada de forma aleatória.')&#10;```&#10;&#10;Agora, o resultado da distribuição de probabilidade será exibido com 2 casas decimais. Espero que isso seja útil! Se você tiver mais alguma dúvida, estou aqui para ajudar." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1708405736796" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_III/Aula_3_Distribuicoes_Probabilisticas.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
         <entry key="fd4491">
           <value>
             <ChatHistoryModel>
@@ -758,6 +791,6 @@
     <SUITE FILE_PATH="coverage/MachineLearningI$Aula_2_Probabilidade_Bayesiana.coverage" NAME="Aula_2_Probabilidade_Bayesiana Coverage Results" MODIFIED="1707885166314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_II" />
     <SUITE FILE_PATH="coverage/MachineLearningI$Aula_4_Modelos_de_selecao.coverage" NAME="Aula_4_Modelos_de_selecao Coverage Results" MODIFIED="1708143108419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_II" />
     <SUITE FILE_PATH="coverage/MachineLearningI$Aula_1_Teoria_da_probabilidade.coverage" NAME="Aula_1_Teoria_da_probabilidade Coverage Results" MODIFIED="1707753573223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_II" />
-    <SUITE FILE_PATH="coverage/MachineLearningI$Aula_3_Distribuicoes_Probabilisticas.coverage" NAME="Aula_3_Distribuicoes_Probabilisticas Coverage Results" MODIFIED="1708405760958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_III" />
+    <SUITE FILE_PATH="coverage/MachineLearningI$Aula_3_Distribuicoes_Probabilisticas.coverage" NAME="Aula_3_Distribuicoes_Probabilisticas Coverage Results" MODIFIED="1708405922462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_III" />
   </component>
 </project>

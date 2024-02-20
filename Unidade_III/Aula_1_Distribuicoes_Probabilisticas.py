@@ -14,7 +14,6 @@ um conjunto de quaisquer entidades. É uma parte da probabilidade e da estatíst
 A soma de todas as probabilidades para todos os valores possíveis, deve ser igual a 1. Além disso, a probabilidade de
 um determinado valor ou intervalo de valores deve estar entre 0 e 1.
 """
-import math
 
 # Distribuições Discretas e Contínuas
 """
@@ -26,8 +25,11 @@ valores deve ocorrer para cada oportunidade.
 é igual a um. Ao rolar um dado, você inevitávelmente obtém um dos valores possíveis.
 
 > Distribuição binomial para modelar dados binários, como lançamentos de moedas.
+      p_xk = (n/k) * (P**k)*(Q**(n-1))
 > Distribuição de Poisson par modelar dados de contagem, como a contagem de retiradas de livros da biblioteca por hora.
+      p_x = ((l**x) * (math.e**(-l))) / math.factorial(x)
 > Distribuição uniforme para modelar vários eventos com a mesma probabilidade, como lançar um dado.
+      1/(b-a)
 
 Distribuição Contínua
 > Já nas distribuições contínuas, são conhecidas como funções de densidade de probabilidade. Sabe-se que tem uma
@@ -42,15 +44,15 @@ aleatórias diferentes.
 > A probabilidade de dois (ou mais) eventos é chamada de probabilidade conjunta. A probabilidade conjunta de duas ou
 mais variáveis aleatórias é conhecida como distribuição de probabilidade conjunta.
 > Por exemplo, a probabilidade conjunta do evento A e do evento B é escrita formalmente como: 
-    P(A e B)
+      P(A e B)
 
 Distribuição Discreta
 > O 'e' ou conjunção é denotado usando o operador 'U' maiúsculo de cabeça para baixo '^', ou as vezes uma vírgula ','.
-    P(A^B)
-    P(A,B)
+      P(A^B)
+      P(A,B)
 > A probabilidade conjunta para os eventos A e B é calculada como a probabilidade do evento A dado evento B multiplicado
 pela probabilidade do evento B. Isso pode ser declarado formalmente da seguinte forma:
-    P(A e B) = P(A dado B) * P(B)
+      P(A e B) = P(A dado B) * P(B)
 """
 
 # Estudo de Caso
