@@ -1,0 +1,16 @@
+Fatura;Data;Numero;Empresa;Quantia;Encargos;Total
+AB 001;25/set/01;207;Swap Informática;3640;364;4004
+AB 002;23/set/01;95;Empresa Light;590;59;649
+AB 003;23/set/01;207;Enteado do Ghandy;7623;762,3;8385,3
+AB 004;07/out/01;54;Trem do Amor;119;11,9;130,9
+AB 005;10/out/01;207;Enteado do Ghandy;620;62;682
+AB 006;21/out/01;12;Vem e Vem;287;28,7;315,7
+AB 007;26/out/01;95;Empresa Light;95;9,5;104,5
+AB 008;02/nov/01;54;Trem do Amor;3247;324,7;3571,7
+AB 009;08/nov/01;12;Vem e Vem;354;35,4;389,4
+AB 010;12/nov/01;95;Empresa Light;184;18,4;202,4
+AB 011;13/nov/01;207;Enteado do Ghandy;2744;274,4;3018,4
+AB 012;14/nov/01;54;Trem do Amor;399;39,9;438,9
+AB 013;15/nov/01;12;Vem e Vem;4211;421,1;4632,1
+AB 014;16/nov/01;95;Empresa Light;177;17,7;194,7
+AB 015;17/nov/01;207;Enteado do Ghandy;566;56,6;622,6
