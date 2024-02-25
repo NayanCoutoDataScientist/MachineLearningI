@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2782bf78-f43b-45e5-91d6-2e8dc079138c" name="Changes" comment="Unidade_III_1">
+    <list default="true" id="2782bf78-f43b-45e5-91d6-2e8dc079138c" name="Changes" comment="Unidade_III_4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +21,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LTNMorTifIcaTioN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a220ba7f-0e4b-4569-8cb9-3a6400f84b5b" />
+        <option name="url" value="https://github.com/LTNMorTifIcaTioN/MachineLearningI.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -40,13 +54,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Aula_1_Introducao_ao_aprendizado_de_maquina.executor": "Run",
+    "Python.Aula_1_Regressao.executor": "Run",
     "Python.Aula_1_Teoria_da_probabilidade.executor": "Run",
+    "Python.Aula_2_Classificacao.executor": "Run",
     "Python.Aula_2_Modelos_de_aprendizagem_de_maquina.executor": "Run",
     "Python.Aula_2_Probabilidade_Bayesiana.executor": "Run",
+    "Python.Aula_2_Transformacoes_lineares.executor": "Run",
     "Python.Aula_3_Clusterizacao.executor": "Run",
     "Python.Aula_3_Decisao_em_ML.executor": "Run",
     "Python.Aula_3_Densidades_probabilisticas.executor": "Run",
     "Python.Aula_3_Distribuicoes_Probabilisticas.executor": "Run",
+    "Python.Aula_4_Algoritmos_de_Classificacao.executor": "Run",
     "Python.Aula_4_Modelos_de_selecao.executor": "Run",
     "Python.Aula_4_Redes_neurais.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -58,7 +76,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -67,8 +85,8 @@
       <recent name="G:\.shortcut-targets-by-id\1-0eJugp2mhHVgylXYxSrV79OPbp72CNB\Cloud Drive\Documentos\Arquivos PDF, PPT, DOC\Ciências de Dados - Anhanguera Ampli\Inteligência Artificial\Machine Learning I\MachineLearningI\Unidade_II" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Aula_2_Transformacoes_lineares">
-    <configuration name="Aula_1_Distribuicoes_Probabilisticas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Aula_2_Classificacao">
+    <configuration name="Aula_1_Regressao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MachineLearningI" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,12 +95,35 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidade_III" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidade_IV" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="G:\.shortcut-targets-by-id\1-0eJugp2mhHVgylXYxSrV79OPbp72CNB\Cloud Drive\Documentos\Arquivos PDF, PPT, DOC\Ciências de Dados - Anhanguera Ampli\Inteligência Artificial\Machine Learning I\MachineLearningI\Unidade_III\Aula_1_Distribuicoes_Probabilisticas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unidade_IV/Aula_1_Regressao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Aula_2_Classificacao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MachineLearningI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidade_IV" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unidade_IV/Aula_2_Classificacao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +178,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Aula_3_Decisao_em_ML" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Aula_4_Algoritmos_de_Classificacao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MachineLearningI" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,35 +187,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidade_II" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidade_III" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unidade_II/Aula_3_Decisao_em_ML.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Aula_4_Modelos_de_selecao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MachineLearningI" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Unidade_II" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unidade_II/Aula_4_Modelos_de_selecao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Unidade_III/Aula_4_Algoritmos_de_Classificacao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,18 +203,18 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Aula_2_Classificacao" />
+        <item itemvalue="Python.Aula_1_Regressao" />
+        <item itemvalue="Python.Aula_4_Algoritmos_de_Classificacao" />
         <item itemvalue="Python.Aula_2_Transformacoes_lineares" />
         <item itemvalue="Python.Aula_3_Clusterizacao" />
-        <item itemvalue="Python.Aula_1_Distribuicoes_Probabilisticas" />
-        <item itemvalue="Python.Aula_4_Modelos_de_selecao" />
-        <item itemvalue="Python.Aula_3_Decisao_em_ML" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
       </set>
     </attachedChunks>
   </component>
@@ -228,7 +246,15 @@
       <workItem from="1708547461150" duration="274000" />
       <workItem from="1708626183669" duration="145000" />
       <workItem from="1708634800230" duration="16000" />
-      <workItem from="1708651158940" duration="7042000" />
+      <workItem from="1708651158940" duration="7337000" />
+      <workItem from="1708713297322" duration="3922000" />
+      <workItem from="1708728797660" duration="8616000" />
+      <workItem from="1708882198153" duration="188000" />
+      <workItem from="1708991355856" duration="6331000" />
+      <workItem from="1709003773097" duration="153000" />
+      <workItem from="1709004298598" duration="3506000" />
+      <workItem from="1709066391453" duration="48000" />
+      <workItem from="1709076487696" duration="7093000" />
     </task>
     <task id="LOCAL-00001" summary="Unidade_I">
       <option name="closed" value="true" />
@@ -286,7 +312,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708406395993</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Unidade_III_3">
+      <option name="closed" value="true" />
+      <created>1708665598551</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1708665598551</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Unidade_III_4">
+      <option name="closed" value="true" />
+      <created>1708882318842</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1708882318842</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -309,11 +351,133 @@
     <MESSAGE value="Unidade_II_2" />
     <MESSAGE value="Unidade_II_4" />
     <MESSAGE value="Unidade_III_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Unidade_III_1" />
+    <MESSAGE value="Unidade_III_3" />
+    <MESSAGE value="Unidade_III_4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Unidade_III_4" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
       <map>
+        <entry key="067e1d">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_IV/Aula_2_Classificacao.py" />
+                </list>
+              </option>
+              <option name="id" value="067e1d" />
+              <option name="initiateTms" value="1709084759489" />
+              <option name="request" value="print('Acurácia SVC', &quot;{:,3f&quot;.format(metrics.accuracy_score(prediction,y_test)))" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Desculpe, parece que há um erro de formatação na linha de código que você mencionou. Está faltando um parêntese de fechamento na função `format()` e também é necessário importar o módulo `metrics` do scikit-learn para usar a função `accuracy_score()`. Aqui está o código corrigido:&#10;&#10;```python&#10;from sklearn import metrics&#10;&#10;print('Acurácia SVC:', &quot;{:.3f}&quot;.format(metrics.accuracy_score(prediction, y_test)))&#10;```&#10;&#10;Nesta versão corrigida, importamos o módulo `metrics` do scikit-learn e usamos a função `accuracy_score()` para calcular a acurácia do modelo SVC. Em seguida, usamos a função `format()` para formatar o valor da acurácia com três casas decimais e exibimos o resultado usando `print()`.&#10;&#10;Espero que isso ajude! Se você tiver mais perguntas, fique à vontade para perguntar." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1709084763404" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_IV/Aula_2_Classificacao.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="0ef2f6">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_III/Aula_4_Algoritmos_de_Classificacao.py" />
+                </list>
+              </option>
+              <option name="id" value="0ef2f6" />
+              <option name="initiateTms" value="1708738473173" />
+              <option name="request" value="&quot;G:\.shortcut-targets-by-id\1-0eJugp2mhHVgylXYxSrV79OPbp72CNB\Cloud Drive\Documentos\Arquivos PDF, PPT, DOC\Ciências de Dados - Anhanguera Ampli\Inteligência Artificial\Machine Learning I\MachineLearningI\.venv\Scripts\python.exe&quot; &quot;G:\.shortcut-targets-by-id\1-0eJugp2mhHVgylXYxSrV79OPbp72CNB\Cloud Drive\Documentos\Arquivos PDF, PPT, DOC\Ciências de Dados - Anhanguera Ampli\Inteligência Artificial\Machine Learning I\MachineLearningI\Unidade_III\Aula_4_Algoritmos_de_Classificacao.py&quot; &#10;Traceback (most recent call last):&#10;  File &quot;G:\.shortcut-targets-by-id\1-0eJugp2mhHVgylXYxSrV79OPbp72CNB\Cloud Drive\Documentos\Arquivos PDF, PPT, DOC\Ciências de Dados - Anhanguera Ampli\Inteligência Artificial\Machine Learning I\MachineLearningI\Unidade_III\Aula_4_Algoritmos_de_Classificacao.py&quot;, line 108, in &lt;module&gt;&#10;    distances, indices = knn.kneighbors(new_data)&#10;                         ^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &quot;D:\Program Files\Python311\Lib\site-packages\sklearn\neighbors\_base.py&quot;, line 804, in kneighbors&#10;    X = self._validate_data(X, accept_sparse=&quot;csr&quot;, reset=False, order=&quot;C&quot;)&#10;        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &quot;D:\Program Files\Python311\Lib\site-packages\sklearn\base.py&quot;, line 604, in _validate_data&#10;O novo dado foi classificado como: 1&#10;    out = check_array(X, input_name=&quot;X&quot;, **check_params)&#10;          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &quot;D:\Program Files\Python311\Lib\site-packages\sklearn\utils\validation.py&quot;, line 940, in check_array&#10;    raise ValueError(&#10;ValueError: Expected 2D array, got 1D array instead:&#10;array=[0 0].&#10;Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.&#10;&#10;Process finished with exit code 1" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="O erro que você está enfrentando ocorre porque o novo dado que você está tentando classificar possui uma dimensão incorreta. O classificador KNN espera que os dados de entrada tenham duas dimensões, mas o novo dado fornecido possui apenas uma dimensão.&#10;&#10;Para corrigir esse erro, você pode usar a função `reshape` do NumPy para alterar a forma do novo dado de `(1,)` para `(1, 2)`. Isso garantirá que ele tenha a forma correta esperada pelo classificador KNN.&#10;&#10;Aqui está o código corrigido:&#10;&#10;```python&#10;# Gerar um novo dado não classificado&#10;new_data = np.array([[0, 0]])&#10;&#10;# Medir a distância do novo dado para os dados existentes&#10;distances, indices = knn.kneighbors(new_data)&#10;&#10;# Obter as classes dos vizinhos mais próximos&#10;nearest_labels = y[indices]&#10;&#10;# Contar a ocorrência de cada classe&#10;unique_classes, class_counts = np.unique(nearest_labels, return_counts=True)&#10;&#10;# Encontrar a classe mais frequente&#10;most_frequent_class = unique_classes[np.argmax(class_counts)]&#10;&#10;# Classificar o novo dado com a classe mais frequente&#10;new_data_class = most_frequent_class&#10;&#10;# Plotar os dados existentes&#10;plt.scatter(X[:, 0], X[:, 1], c=y, cmap='viridis', label='Dados existentes')&#10;&#10;# Plotar o novo dado não classificado&#10;plt.scatter(new_data[:, 0], new_data[:, 1], c='red', marker='x', label='Novo dado')&#10;&#10;# Plotar os vizinhos mais próximos&#10;plt.scatter(X[indices, 0], X[indices, 1], c=nearest_labels.flatten(), cmap='viridis', marker='s', label='Vizinhos mais próximos')&#10;&#10;plt.xlabel('Característica 1')&#10;plt.ylabel('Característica 2')&#10;plt.title('Classificação com KNN')&#10;plt.legend()&#10;plt.show()&#10;&#10;print(f'O novo dado foi classificado como: {new_data_class}')&#10;```&#10;&#10;Agora, o novo dado será corretamente classificado pelo classificador KNN." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1708738478546" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_III/Aula_4_Algoritmos_de_Classificacao.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="1d49c1">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_IV/Aula_2_Classificacao.py" />
+                </list>
+              </option>
+              <option name="id" value="1d49c1" />
+              <option name="initiateTms" value="1709083637821" />
+              <option name="request" value="Traceback (most recent call last):&#10;  File &quot;G:\.shortcut-targets-by-id\1-0eJugp2mhHVgylXYxSrV79OPbp72CNB\Cloud Drive\Documentos\Arquivos PDF, PPT, DOC\Ciências de Dados - Anhanguera Ampli\Inteligência Artificial\Machine Learning I\MachineLearningI\Unidade_IV\Aula_2_Classificacao.py&quot;, line 14, in &lt;module&gt;&#10;    img = mpimg.imread('https://raw.githubusercontent.com/ApoorvRusia/SVM-classification-on-Iris-dataset/master/iris_types.jpg')&#10;          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &quot;D:\Program Files\Python311\Lib\site-packages\matplotlib\image.py&quot;, line 1558, in imread&#10;    raise ValueError(&#10;ValueError: Please open the URL for reading and pass the result to Pillow, e.g. with ``np.array(PIL.Image.open(urllib.request.urlopen(url)))``." />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Desculpe pelo erro. Parece que você está tentando carregar uma imagem diretamente de uma URL usando a função `imread()` do matplotlib. No entanto, a função `imread()` espera que você passe o resultado da leitura da URL para o Pillow (biblioteca de processamento de imagens).&#10;&#10;Para corrigir o erro, você pode usar a biblioteca Pillow para abrir a imagem da URL e, em seguida, converter o resultado em um array numpy. Aqui está o código corrigido:&#10;&#10;```python&#10;import numpy as np&#10;import matplotlib.pyplot as plt&#10;import urllib.request&#10;from PIL import Image&#10;&#10;url = 'https://raw.githubusercontent.com/ApoorvRusia/SVM-classification-on-Iris-dataset/master/iris_types.jpg'&#10;&#10;# Abrir a imagem da URL usando o Pillow&#10;image = Image.open(urllib.request.urlopen(url))&#10;&#10;# Converter a imagem para um array numpy&#10;img_array = np.array(image)&#10;&#10;# Exibir a imagem&#10;plt.figure(figsize=(20, 40))&#10;plt.axis('off')&#10;plt.imshow(img_array)&#10;plt.show()&#10;```&#10;&#10;Certifique-se de ter a biblioteca Pillow instalada. Você pode instalá-la usando o comando `pip install pillow`.&#10;&#10;Espero que isso resolva o problema! Se você tiver mais perguntas, fique à vontade para perguntar." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1709083643510" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_IV/Aula_2_Classificacao.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="1da1ae">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_III/Aula_2_Transformacoes_lineares.py" />
+                </list>
+              </option>
+              <option name="id" value="1da1ae" />
+              <option name="initiateTms" value="1708665491532" />
+              <option name="request" value="crie um algoritmo com exemplos gráficos de transformações lineares" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Claro! Aqui está um exemplo de algoritmo que demonstra algumas transformações lineares com exemplos gráficos:&#10;&#10;```python&#10;import numpy as np&#10;import matplotlib.pyplot as plt&#10;&#10;# Função para plotar os vetores no gráfico&#10;def plot_vectors(vectors, colors):&#10;    for vector, color in zip(vectors, colors):&#10;        plt.quiver(0, 0, vector[0], vector[1], angles='xy', scale_units='xy', scale=1, color=color)&#10;        plt.xlim(-10, 10)&#10;        plt.ylim(-10, 10)&#10;&#10;# Vetores de exemplo&#10;vectors = np.array([[2, 2], [-3, 1], [1, -3]])&#10;colors = ['r', 'g', 'b']&#10;&#10;# Transformação: Rotação de 45 graus no sentido anti-horário&#10;rotation_matrix = np.array([[np.cos(np.pi/4), -np.sin(np.pi/4)], [np.sin(np.pi/4), np.cos(np.pi/4)]])&#10;rotated_vectors = np.dot(vectors, rotation_matrix)&#10;&#10;# Transformação: Escala por um fator de 2&#10;scale_factor = 2&#10;scaled_vectors = vectors * scale_factor&#10;&#10;# Transformação: Reflexão em relação ao eixo x&#10;reflection_matrix = np.array([[1, 0], [0, -1]])&#10;reflected_vectors = np.dot(vectors, reflection_matrix)&#10;&#10;# Plotar os vetores originais&#10;plt.subplot(2, 2, 1)&#10;plt.title('Vetores Originais')&#10;plot_vectors(vectors, colors)&#10;&#10;# Plotar os vetores rotacionados&#10;plt.subplot(2, 2, 2)&#10;plt.title('Vetores Rotacionados')&#10;plot_vectors(rotated_vectors, colors)&#10;&#10;# Plotar os vetores escalados&#10;plt.subplot(2, 2, 3)&#10;plt.title('Vetores Escalados')&#10;plot_vectors(scaled_vectors, colors)&#10;&#10;# Plotar os vetores refletidos&#10;plt.subplot(2, 2, 4)&#10;plt.title('Vetores Refletidos')&#10;plot_vectors(reflected_vectors, colors)&#10;&#10;plt.tight_layout()&#10;plt.show()&#10;```&#10;&#10;Neste exemplo, temos três vetores de exemplo representados pelos arrays `vectors`. Em seguida, aplicamos três transformações lineares diferentes:&#10;&#10;1. Rotação de 45 graus no sentido anti-horário usando uma matriz de rotação.&#10;2. Escala por um fator de 2 multiplicando os vetores pelo fator de escala.&#10;3. Reflexão em relação ao eixo x usando uma matriz de reflexão.&#10;&#10;Em cada transformação, calculamos os vetores resultantes e os plotamos em um gráfico de dispersão usando a função `plot_vectors`. Cada transformação é mostrada em um subplot separado.&#10;&#10;Certifique-se de ter a biblioteca matplotlib instalada em seu ambiente Python para executar o código acima.&#10;&#10;Se você tiver mais dúvidas ou precisar de mais ajuda, por favor, me avise." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1708665502506" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_III/Aula_2_Transformacoes_lineares.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="34605f">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_III/Aula_4_Algoritmos_de_Classificacao.py" />
+                </list>
+              </option>
+              <option name="id" value="34605f" />
+              <option name="initiateTms" value="1708738305760" />
+              <option name="request" value="calcule e retorne a distância euclidiana neste algoritmo:" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Claro! Para calcular a distância euclidiana entre o novo dado e os dados existentes, você pode usar a função `euclidean` da biblioteca `scipy.spatial.distance`. Aqui está o código para calcular e retornar a distância euclidiana:&#10;&#10;```python&#10;from scipy.spatial.distance import euclidean&#10;&#10;# Gerar um novo dado não classificado&#10;new_data = np.array([0, 0])&#10;&#10;# Medir a distância do novo dado para os dados existentes&#10;distances, indices = knn.kneighbors(new_data)&#10;&#10;# Calcular a distância euclidiana&#10;euclidean_distance = euclidean(new_data, X[indices])&#10;&#10;# Retornar a distância euclidiana&#10;print(f&quot;A distância euclidiana entre o novo dado e os vizinhos mais próximos é: {euclidean_distance}&quot;)&#10;```&#10;&#10;Neste código, importamos a função `euclidean` da biblioteca `scipy.spatial.distance`. Em seguida, calculamos a distância euclidiana entre o novo dado (`new_data`) e os vizinhos mais próximos (`X[indices]`). Por fim, imprimimos a distância euclidiana.&#10;&#10;Execute esse código e você obterá a distância euclidiana entre o novo dado e os vizinhos mais próximos. Se você tiver mais dúvidas ou precisar de mais ajuda, por favor, me avise." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1708738311513" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_III/Aula_4_Algoritmos_de_Classificacao.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
         <entry key="472960">
           <value>
             <ChatHistoryModel>
@@ -333,6 +497,30 @@
               <option name="usedLocalFilePaths">
                 <list>
                   <option value="$PROJECT_DIR$/Unidade_III/Aula_3_Clusterizacao.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="488fa5">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_IV/Aula_2_Classificacao.py" />
+                </list>
+              </option>
+              <option name="id" value="488fa5" />
+              <option name="initiateTms" value="1709083632888" />
+              <option name="request" value="oi" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Olá! Como posso ajudar você hoje?" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1709083635134" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_IV/Aula_2_Classificacao.py" />
                 </list>
               </option>
             </ChatHistoryModel>
@@ -362,6 +550,142 @@
             </ChatHistoryModel>
           </value>
         </entry>
+        <entry key="508f90">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_IV/Aula_1_Regressao.py" />
+                </list>
+              </option>
+              <option name="id" value="508f90" />
+              <option name="initiateTms" value="1709002717559" />
+              <option name="request" value="inverta as barras: G:\.shortcut-targets-by-id\1-0eJugp2mhHVgylXYxSrV79OPbp72CNB\Cloud Drive\Documentos\Arquivos PDF, PPT, DOC\Ciências de Dados - Anhanguera Ampli\Inteligência Artificial\Machine Learning I\MachineLearningI\Datasets\Bovinos-Arquivo5.csv" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Para inverter as barras no caminho do arquivo, você pode usar a função `replace()` do Python. Aqui está o código para inverter as barras no caminho fornecido:&#10;&#10;```python&#10;caminho_arquivo = 'G:\\.shortcut-targets-by-id\\1-0eJugp2mhHVgylXYxSrV79OPbp72CNB\\Cloud Drive\\Documentos\\Arquivos PDF, PPT, DOC\\Ciências de Dados - Anhanguera Ampli\\Inteligência Artificial\\Machine Learning I\\MachineLearningI\\Datasets\\Bovinos-Arquivo5.csv'&#10;&#10;caminho_arquivo_invertido = caminho_arquivo.replace('\\', '/')&#10;&#10;print(caminho_arquivo_invertido)&#10;```&#10;&#10;Isso irá imprimir o caminho do arquivo com as barras invertidas:&#10;&#10;```&#10;G:/.shortcut-targets-by-id/1-0eJugp2mhHVgylXYxSrV79OPbp72CNB/Cloud Drive/Documentos/Arquivos PDF, PPT, DOC/Ciências de Dados - Anhanguera Ampli/Inteligência Artificial/Machine Learning I/MachineLearningI/Datasets/Bovinos-Arquivo5.csv&#10;```&#10;&#10;Observe que as barras invertidas foram substituídas por barras normais (&quot;/&quot;)." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1709002721446" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_IV/Aula_1_Regressao.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="51b819">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_III/Aula_4_Algoritmos_de_Classificacao.py" />
+                </list>
+              </option>
+              <option name="id" value="51b819" />
+              <option name="initiateTms" value="1708738329615" />
+              <option name="request" value="calcule e retorne a distância euclidiana neste algoritmo: &#9;import numpy as np&#10;import matplotlib.pyplot as plt&#10;from sklearn.datasets import make_blobs&#10;from sklearn.neighbors import KNeighborsClassifier&#10;&#10;# Gerar dados de exemplo&#10;X, y = make_blobs(n_samples=100, centers=2, random_state=42)&#10;&#10;# Criar o classificador KNN&#10;k = 3  # número de vizinhos mais próximos a considerar&#10;knn = KNeighborsClassifier(n_neighbors=k)&#10;&#10;# Treinar o classificador com os dados existentes&#10;knn.fit(X, y)&#10;&#10;# Gerar um novo dado não classificado&#10;new_data = np.array([[0, 0]])&#10;&#10;# Medir a distância do novo dado para os dados existentes&#10;distances, indices = knn.kneighbors(new_data)&#10;&#10;# Obter as classes dos vizinhos mais próximos&#10;nearest_labels = y[indices]&#10;&#10;# Contar a ocorrência de cada classe&#10;unique_classes, class_counts = np.unique(nearest_labels, return_counts=True)&#10;&#10;# Encontrar a classe mais frequente&#10;most_frequent_class = unique_classes[np.argmax(class_counts)]&#10;&#10;# Classificar o novo dado com a classe mais frequente&#10;new_data_class = most_frequent_class&#10;&#10;# Plotar os dados existentes&#10;plt.scatter(X[:, 0], X[:, 1], c=y, cmap='viridis', label='Dados existentes')&#10;&#10;# Plotar o novo dado não classificado&#10;plt.scatter(new_data[:, 0], new_data[:, 1], c='red', marker='x', label='Novo dado')&#10;&#10;# Plotar os vizinhos mais próximos&#10;plt.scatter(X[indices, 0], X[indices, 1], c=nearest_labels.flatten(), cmap='viridis', marker='s', label='Vizinhos mais próximos')&#10;&#10;plt.xlabel('Característica 1')&#10;plt.ylabel('Característica 2')&#10;plt.title('Classificação com KNN')&#10;plt.legend()&#10;plt.show()&#10;&#10;print(f'O novo dado foi classificado como: {new_data_class}')" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Desculpe, mas para calcular a distância euclidiana, preciso ter acesso ao código completo do algoritmo KNN. No código fornecido, não há uma função específica para calcular a distância euclidiana. &#10;&#10;Se você puder fornecer o código completo do algoritmo KNN, incluindo a definição da função `euclidean_distance` ou qualquer outra função que calcule a distância euclidiana, ficarei feliz em ajudar a calcular e retornar a distância euclidiana." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1708738335239" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_III/Aula_4_Algoritmos_de_Classificacao.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="526e83">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_III/Aula_4_Algoritmos_de_Classificacao.py" />
+                </list>
+              </option>
+              <option name="id" value="526e83" />
+              <option name="initiateTms" value="1708738176368" />
+              <option name="request" value="retorne o valor da distância euclidiana" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Para calcular a distância euclidiana entre dois pontos em um espaço bidimensional, você pode usar a função `euclidean` da biblioteca `scipy.spatial.distance`. Aqui está um exemplo de como calcular a distância euclidiana entre o novo dado não classificado e os vizinhos mais próximos:&#10;&#10;```python&#10;from scipy.spatial.distance import euclidean&#10;&#10;# Calcular a distância euclidiana entre o novo dado e os vizinhos mais próximos&#10;distances = [euclidean(new_data.flatten(), X[index]) for index in indices]&#10;&#10;# Imprimir as distâncias euclidianas&#10;for i, distance in enumerate(distances):&#10;    print(f&quot;A distância euclidiana entre o novo dado e o vizinho {i+1} é: {distance}&quot;)&#10;```&#10;&#10;Neste exemplo, importamos a função `euclidean` da biblioteca `scipy.spatial.distance`. Em seguida, calculamos a distância euclidiana entre o novo dado (`new_data`) e cada vizinho mais próximo (`X[index]`) usando um loop.&#10;&#10;Por fim, imprimimos as distâncias euclidianas para cada vizinho mais próximo.&#10;&#10;Certifique-se de ter a biblioteca `scipy` instalada em seu ambiente Python para executar o código acima.&#10;&#10;Se você tiver mais dúvidas ou precisar de mais ajuda, por favor, me avise." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1708738180549" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_III/Aula_4_Algoritmos_de_Classificacao.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="5285a1">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_III/Aula_4_Algoritmos_de_Classificacao.py" />
+                </list>
+              </option>
+              <option name="id" value="5285a1" />
+              <option name="initiateTms" value="1708740852423" />
+              <option name="request" value="corrija este algoritmo: from sklearn.tree import DecisionTreeClassifier&#10;from sklearn.metrics import accuracy_score&#10;&#10;np.random.seed(SEED)&#10;&#10;model = DecisionTreeClassifier(max_depth=2)&#10;&#10;model.fit(X_train, y_train)&#10;&#10;predict = model.predict(X_test)&#10;&#10;accuracy = accuracy_score(y_test, predict) * 100&#10;&#10;print(&quot;A acuracia foi de {: .2f}%.&quot;.format(accuracy))" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="O algoritmo parece estar correto, mas há uma variável `SEED` que não foi definida. Você precisa definir um valor para `SEED` antes de executar o código. Além disso, as variáveis `X_train`, `y_train`, `X_test` e `y_test` não estão definidas no código fornecido. Essas variáveis devem conter os dados de treinamento e teste para o modelo de árvore de decisão.&#10;&#10;Aqui está um exemplo de como você pode corrigir o código, definindo um valor para `SEED` e fornecendo os dados de treinamento e teste:&#10;&#10;```python&#10;from sklearn.tree import DecisionTreeClassifier&#10;from sklearn.metrics import accuracy_score&#10;import numpy as np&#10;&#10;SEED = 42&#10;&#10;# Definir os dados de treinamento e teste&#10;X_train = ...&#10;y_train = ...&#10;X_test = ...&#10;y_test = ...&#10;&#10;np.random.seed(SEED)&#10;&#10;model = DecisionTreeClassifier(max_depth=2)&#10;&#10;model.fit(X_train, y_train)&#10;&#10;predict = model.predict(X_test)&#10;&#10;accuracy = accuracy_score(y_test, predict) * 100&#10;&#10;print(&quot;A acuracia foi de {:.2f}%.&quot;.format(accuracy))&#10;```&#10;&#10;Certifique-se de substituir `...` pelos seus dados de treinamento e teste reais." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1708740857481" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_III/Aula_4_Algoritmos_de_Classificacao.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="6ea25a">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="6ea25a" />
+              <option name="initiateTms" value="1709002535306" />
+              <option name="isStopped" value="true" />
+              <option name="request" value="importe esse csv como dataframe, sep (';'): Datasets/Bovinos-Arquivo5.csv" />
+              <option name="response" value="" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_IV/Aula_1_Regressao.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="73a290">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_III/Aula_4_Algoritmos_de_Classificacao.py" />
+                </list>
+              </option>
+              <option name="id" value="73a290" />
+              <option name="initiateTms" value="1708740326347" />
+              <option name="request" value="resuma a precisão e o recall" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="A precisão e o recall são métricas comumente usadas para avaliar a qualidade de um modelo de classificação.&#10;&#10;A precisão é a proporção de exemplos positivos corretamente classificados em relação ao total de exemplos classificados como positivos. Em outras palavras, a precisão mede a capacidade do modelo de evitar classificar erroneamente exemplos negativos como positivos. A fórmula da precisão é:&#10;&#10;Precisão = Verdadeiros Positivos / (Verdadeiros Positivos + Falsos Positivos)&#10;&#10;Por outro lado, o recall é a proporção de exemplos positivos corretamente classificados em relação ao total de exemplos positivos reais. O recall mede a capacidade do modelo de identificar corretamente exemplos positivos. A fórmula do recall é:&#10;&#10;Recall = Verdadeiros Positivos / (Verdadeiros Positivos + Falsos Negativos)&#10;&#10;Em resumo, a precisão mede a precisão das previsões positivas do modelo, enquanto o recall mede a capacidade do modelo de encontrar todos os exemplos positivos.&#10;&#10;É importante observar que a precisão e o recall são métricas complementares e podem ter um trade-off entre si. Aumentar a precisão geralmente leva a uma diminuição no recall e vice-versa. Portanto, é importante considerar o contexto do problema e escolher a métrica mais adequada com base nos requisitos específicos do projeto." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1708740330583" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_III/Aula_4_Algoritmos_de_Classificacao.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
         <entry key="755ee2">
           <value>
             <ChatHistoryModel>
@@ -381,6 +705,54 @@
               <option name="usedLocalFilePaths">
                 <list>
                   <option value="$PROJECT_DIR$/Unidade_III/Aula_3_Clusterizacao.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="86bacc">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_IV/Aula_1_Regressao.py" />
+                </list>
+              </option>
+              <option name="id" value="86bacc" />
+              <option name="initiateTms" value="1709002549128" />
+              <option name="request" value="importe esse csv como dataframe, sep (';'): Datasets/Bovinos-Arquivo5.csv" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Para importar o arquivo CSV &quot;Bovinos-Arquivo5.csv&quot; como um DataFrame, você pode usar a biblioteca pandas. Certifique-se de ter o pandas instalado em seu ambiente antes de executar o código a seguir:&#10;&#10;```python&#10;import pandas as pd&#10;&#10;# Caminho para o arquivo CSV&#10;caminho_arquivo = 'Datasets/Bovinos-Arquivo5.csv'&#10;&#10;# Importar o arquivo CSV como DataFrame&#10;df = pd.read_csv(caminho_arquivo, sep=';')&#10;&#10;# Exibir o DataFrame&#10;print(df)&#10;```&#10;&#10;Certifique-se de substituir `'Datasets/Bovinos-Arquivo5.csv'` pelo caminho correto para o arquivo CSV em seu sistema. O parâmetro `sep=';'` é usado para especificar que o separador no arquivo CSV é o ponto e vírgula." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1709002553093" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_IV/Aula_1_Regressao.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="905f0b">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_III/Aula_4_Algoritmos_de_Classificacao.py" />
+                </list>
+              </option>
+              <option name="id" value="905f0b" />
+              <option name="initiateTms" value="1708738243872" />
+              <option name="request" value="Traceback (most recent call last):&#10;  File &quot;G:\.shortcut-targets-by-id\1-0eJugp2mhHVgylXYxSrV79OPbp72CNB\Cloud Drive\Documentos\Arquivos PDF, PPT, DOC\Ciências de Dados - Anhanguera Ampli\Inteligência Artificial\Machine Learning I\MachineLearningI\Unidade_III\Aula_4_Algoritmos_de_Classificacao.py&quot;, line 104, in &lt;module&gt;&#10;O novo dado foi classificado como: 1&#10;    distances = [euclidean(new_data.flatten(), X[index]) for index in indices]&#10;                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &quot;G:\.shortcut-targets-by-id\1-0eJugp2mhHVgylXYxSrV79OPbp72CNB\Cloud Drive\Documentos\Arquivos PDF, PPT, DOC\Ciências de Dados - Anhanguera Ampli\Inteligência Artificial\Machine Learning I\MachineLearningI\Unidade_III\Aula_4_Algoritmos_de_Classificacao.py&quot;, line 104, in &lt;listcomp&gt;&#10;    distances = [euclidean(new_data.flatten(), X[index]) for index in indices]&#10;                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &quot;D:\Program Files\Python311\Lib\site-packages\scipy\spatial\distance.py&quot;, line 536, in euclidean&#10;    return minkowski(u, v, p=2, w=w)&#10;           ^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &quot;D:\Program Files\Python311\Lib\site-packages\scipy\spatial\distance.py&quot;, line 480, in minkowski&#10;    v = _validate_vector(v)&#10;        ^^^^^^^^^^^^^^^^^^^&#10;  File &quot;D:\Program Files\Python311\Lib\site-packages\scipy\spatial\distance.py&quot;, line 318, in _validate_vector&#10;    raise ValueError(&quot;Input vector should be 1-D.&quot;)&#10;ValueError: Input vector should be 1-D." />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Desculpe pelo erro. Parece que o novo dado (`new_data`) não está sendo fornecido como um vetor unidimensional. A função `euclidean` espera que os vetores de entrada sejam unidimensionais.&#10;&#10;Para corrigir o erro, você pode modificar a linha onde o novo dado é definido para garantir que ele seja um vetor unidimensional. Aqui está o código corrigido:&#10;&#10;```python&#10;# Gerar um novo dado não classificado&#10;new_data = np.array([0, 0])  # Modifique esta linha&#10;&#10;# Medir a distância do novo dado para os dados existentes&#10;distances, indices = knn.kneighbors(new_data)&#10;&#10;# Resto do código...&#10;```&#10;&#10;Neste exemplo, modificamos a linha onde o novo dado é definido para `new_data = np.array([0, 0])`. Isso garante que o novo dado seja um vetor unidimensional.&#10;&#10;Tente executar o código novamente após fazer essa modificação. Se você tiver mais dúvidas ou precisar de mais ajuda, por favor, me avise." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1708738247905" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_III/Aula_4_Algoritmos_de_Classificacao.py" />
                 </list>
               </option>
             </ChatHistoryModel>
@@ -434,6 +806,126 @@
             </ChatHistoryModel>
           </value>
         </entry>
+        <entry key="bcabdd">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_III/Aula_4_Algoritmos_de_Classificacao.py" />
+                </list>
+              </option>
+              <option name="id" value="bcabdd" />
+              <option name="initiateTms" value="1708737943260" />
+              <option name="request" value="crie um Algoritmo K-nearest neighbors - KNN com as seguintes etapas, e exiba graficamente o processo realizado e o resultado no final:&#9;As etapas do algoritmo são (ALPAYDIN, 2020):&#10;&#10;1 - Primeiro há o recebimento de um dado que não foi classificado previamente;&#10;2 - Há a medição da distância desse novo dado que não foi classificado anteriormente, levando em consideração os dados que já obtiveram sua classificação.&#10;3 - Obtém X menores distâncias.&#10;4 - Há uma verificação para identificar a classe de cada um dos dados que obtiverem a menor distância e realizar uma contagem de cada classe.&#10;5 - Verifica a classe que mais apareceu, considerando os dados que obtiverem as menores distâncias. Essa classe será seu resultado.&#10;6 - Realiza a classificação do dado com a classe que obtemos como resultado na fase 5. " />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Aqui está um exemplo de implementação do algoritmo K-nearest neighbors (KNN) com as etapas descritas:&#10;&#10;```python&#10;import numpy as np&#10;import matplotlib.pyplot as plt&#10;from sklearn.datasets import make_blobs&#10;from sklearn.neighbors import KNeighborsClassifier&#10;&#10;# Gerar dados de exemplo&#10;X, y = make_blobs(n_samples=100, centers=2, random_state=42)&#10;&#10;# Criar o classificador KNN&#10;k = 3  # número de vizinhos mais próximos a considerar&#10;knn = KNeighborsClassifier(n_neighbors=k)&#10;&#10;# Treinar o classificador com os dados existentes&#10;knn.fit(X, y)&#10;&#10;# Gerar um novo dado não classificado&#10;new_data = np.array([[0, 0]])&#10;&#10;# Medir a distância do novo dado para os dados existentes&#10;distances, indices = knn.kneighbors(new_data)&#10;&#10;# Obter as classes dos vizinhos mais próximos&#10;nearest_labels = y[indices]&#10;&#10;# Contar a ocorrência de cada classe&#10;unique_classes, class_counts = np.unique(nearest_labels, return_counts=True)&#10;&#10;# Encontrar a classe mais frequente&#10;most_frequent_class = unique_classes[np.argmax(class_counts)]&#10;&#10;# Classificar o novo dado com a classe mais frequente&#10;new_data_class = most_frequent_class&#10;&#10;# Plotar os dados existentes&#10;plt.scatter(X[:, 0], X[:, 1], c=y, cmap='viridis', label='Dados existentes')&#10;&#10;# Plotar o novo dado não classificado&#10;plt.scatter(new_data[:, 0], new_data[:, 1], c='red', marker='x', label='Novo dado')&#10;&#10;# Plotar os vizinhos mais próximos&#10;plt.scatter(X[indices, 0], X[indices, 1], c=nearest_labels.flatten(), cmap='viridis', marker='s', label='Vizinhos mais próximos')&#10;&#10;plt.xlabel('Característica 1')&#10;plt.ylabel('Característica 2')&#10;plt.title('Classificação com KNN')&#10;plt.legend()&#10;plt.show()&#10;&#10;print(f'O novo dado foi classificado como: {new_data_class}')&#10;```&#10;&#10;Neste exemplo, utilizamos a biblioteca scikit-learn para gerar dados de exemplo com a função `make_blobs`. Em seguida, criamos um classificador KNN com `k = 3` vizinhos mais próximos.&#10;&#10;Após treinar o classificador com os dados existentes, geramos um novo dado não classificado (`new_data`) e medimos a distância desse dado para os dados existentes usando o método `kneighbors` do classificador KNN.&#10;&#10;Em seguida, obtemos as classes dos vizinhos mais próximos, contamos a ocorrência de cada classe e encontramos a classe mais frequente. Essa classe é considerada como a classificação do novo dado.&#10;&#10;Por fim, plotamos os dados existentes, o novo dado não classificado e os vizinhos mais próximos em um gráfico de dispersão. Também exibimos a classe atribuída ao novo dado.&#10;&#10;Certifique-se de ter as bibliotecas numpy, matplotlib e scikit-learn instaladas em seu ambiente Python para executar o código acima.&#10;&#10;Se você tiver mais dúvidas ou precisar de mais ajuda, por favor, me avise." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1708737952496" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_III/Aula_4_Algoritmos_de_Classificacao.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="bfcae8">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_IV/Aula_2_Classificacao.py" />
+                </list>
+              </option>
+              <option name="id" value="bfcae8" />
+              <option name="initiateTms" value="1709093576006" />
+              <option name="request" value="Traceback (most recent call last):&#10;  File &quot;G:\.shortcut-targets-by-id\1-0eJugp2mhHVgylXYxSrV79OPbp72CNB\Cloud Drive\Documentos\Arquivos PDF, PPT, DOC\Ciências de Dados - Anhanguera Ampli\Inteligência Artificial\Machine Learning I\MachineLearningI\Unidade_IV\Aula_2_Classificacao.py&quot;, line 74, in &lt;module&gt;&#10;    a = cm.shape&#10;        ^^&#10;NameError: name 'cm' is not defined" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Desculpe pelo erro. Parece que você está tentando acessar a variável `cm` que não foi definida anteriormente no código. &#10;&#10;A variável `cm` é comumente usada para representar uma matriz de confusão, que é uma matriz que mostra as classificações corretas e incorretas feitas por um modelo de classificação. No entanto, não vejo onde você definiu ou calculou a matriz de confusão no código fornecido.&#10;&#10;Para calcular a matriz de confusão, você pode usar a função `confusion_matrix()` do scikit-learn. Aqui está um exemplo de como calcular a matriz de confusão e exibir as classificações corretas e incorretas:&#10;&#10;```python&#10;from sklearn.metrics import confusion_matrix&#10;&#10;# Calcular a matriz de confusão&#10;cm = confusion_matrix(y_test, y_pred)&#10;&#10;# Calcular as classificações corretas e incorretas&#10;corrPred = cm.diagonal().sum()&#10;falsePred = cm.sum() - corrPred&#10;&#10;print('Classificações Corretas:', corrPred)&#10;print('Classificações Incorretas:', falsePred)&#10;```&#10;&#10;Certifique-se de substituir `y_test` e `y_pred` pelos seus próprios dados de teste e previsões.&#10;&#10;Espero que isso ajude! Se você tiver mais perguntas, fique à vontade para perguntar." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1709093580444" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_IV/Aula_2_Classificacao.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="cba007">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_IV/Aula_2_Classificacao.py" />
+                </list>
+              </option>
+              <option name="id" value="cba007" />
+              <option name="initiateTms" value="1709093924779" />
+              <option name="request" value="limite a duas casas decimais: print(f'\n\nAcurácia do modelo Naive Bayes: {corrPred/(cm.sum())}')" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Para limitar a acurácia do modelo Naive Bayes a duas casas decimais, você pode usar a função `round()` para arredondar o valor para duas casas decimais. Aqui está o código atualizado:&#10;&#10;```python&#10;print(f'\n\nAcurácia do modelo Naive Bayes: {round(corrPred/(cm.sum()), 2)}')&#10;```&#10;&#10;Neste código, usamos a função `round()` para arredondar o resultado da divisão `corrPred/(cm.sum())` para duas casas decimais. Em seguida, usamos a f-string para exibir o resultado formatado na string de saída.&#10;&#10;Espero que isso resolva o problema! Se você tiver mais perguntas, fique à vontade para perguntar." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1709093927936" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_IV/Aula_2_Classificacao.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="cd85c9">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_IV/Aula_1_Regressao.py" />
+                </list>
+              </option>
+              <option name="id" value="cd85c9" />
+              <option name="initiateTms" value="1709002841805" />
+              <option name="request" value="Traceback (most recent call last):&#10;  File &quot;G:\.shortcut-targets-by-id\1-0eJugp2mhHVgylXYxSrV79OPbp72CNB\Cloud Drive\Documentos\Arquivos PDF, PPT, DOC\Ciências de Dados - Anhanguera Ampli\Inteligência Artificial\Machine Learning I\MachineLearningI\Unidade_IV\Aula_1_Regressao.py&quot;, line 105, in &lt;module&gt;&#10;    sh1 = pd.read_csv(caminho_arquivo, sep=';')&#10;          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &quot;D:\Program Files\Python311\Lib\site-packages\pandas\io\parsers\readers.py&quot;, line 912, in read_csv&#10;    return _read(filepath_or_buffer, kwds)&#10;           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &quot;D:\Program Files\Python311\Lib\site-packages\pandas\io\parsers\readers.py&quot;, line 577, in _read&#10;    parser = TextFileReader(filepath_or_buffer, **kwds)&#10;             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &quot;D:\Program Files\Python311\Lib\site-packages\pandas\io\parsers\readers.py&quot;, line 1407, in __init__&#10;    self._engine = self._make_engine(f, self.engine)&#10;                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &quot;D:\Program Files\Python311\Lib\site-packages\pandas\io\parsers\readers.py&quot;, line 1679, in _make_engine&#10;    return mapping[engine](f, **self.options)&#10;           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &quot;D:\Program Files\Python311\Lib\site-packages\pandas\io\parsers\c_parser_wrapper.py&quot;, line 93, in __init__&#10;    self._reader = parsers.TextReader(src, **kwds)&#10;                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;  File &quot;pandas\_libs\parsers.pyx&quot;, line 550, in pandas._libs.parsers.TextReader.__cinit__&#10;  File &quot;pandas\_libs\parsers.pyx&quot;, line 639, in pandas._libs.parsers.TextReader._get_header&#10;  File &quot;pandas\_libs\parsers.pyx&quot;, line 850, in pandas._libs.parsers.TextReader._tokenize_rows&#10;  File &quot;pandas\_libs\parsers.pyx&quot;, line 861, in pandas._libs.parsers.TextReader._check_tokenize_status&#10;  File &quot;pandas\_libs\parsers.pyx&quot;, line 2021, in pandas._libs.parsers.raise_parser_error&#10;UnicodeDecodeError: 'utf-8' codec can't decode byte 0xe3 in position 270: invalid continuation byte" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="O erro que você está enfrentando é um erro de decodificação Unicode. Isso ocorre porque o arquivo CSV que você está tentando ler contém caracteres que não podem ser decodificados corretamente usando o codec UTF-8 padrão.&#10;&#10;Para resolver esse problema, você pode tentar especificar um codec de decodificação diferente ao ler o arquivo CSV. Por exemplo, você pode tentar usar o codec 'latin1' da seguinte maneira:&#10;&#10;```python&#10;import pandas as pd&#10;&#10;caminho_arquivo = 'G:\\.shortcut-targets-by-id\\1-0eJugp2mhHVgylXYxSrV79OPbp72CNB\\Cloud Drive\\Documentos\\Arquivos PDF, PPT, DOC\\Ciências de Dados - Anhanguera Ampli\\Inteligência Artificial\\Machine Learning I\\MachineLearningI\\Unidade_IV\\Aula_1_Regressao.py'&#10;&#10;df = pd.read_csv(caminho_arquivo, sep=';', encoding='latin1')&#10;&#10;print(df)&#10;```&#10;&#10;Ao especificar `encoding='latin1'`, você está instruindo o pandas a usar o codec 'latin1' para decodificar o arquivo CSV. Isso pode resolver o problema de decodificação Unicode e permitir que você leia o arquivo corretamente.&#10;&#10;Se o problema persistir ou se você precisar de mais assistência, considere atualizar para nosso plano pago, que oferece recursos avançados de indexação de projetos e contexto dinâmico. Isso nos permitirá fornecer uma solução mais precisa e personalizada para o seu problema. Você pode encontrar mais informações sobre nossos planos e recursos em [https://www.machinet.net/#pricing](https://www.machinet.net/#pricing)." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1709002847240" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_IV/Aula_1_Regressao.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="e99d49">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_IV/Aula_1_Regressao.py" />
+                </list>
+              </option>
+              <option name="id" value="e99d49" />
+              <option name="initiateTms" value="1709003176018" />
+              <option name="request" value="Traceback (most recent call last):&#10;  File &quot;G:\.shortcut-targets-by-id\1-0eJugp2mhHVgylXYxSrV79OPbp72CNB\Cloud Drive\Documentos\Arquivos PDF, PPT, DOC\Ciências de Dados - Anhanguera Ampli\Inteligência Artificial\Machine Learning I\MachineLearningI\Unidade_IV\Aula_1_Regressao.py&quot;, line 108, in &lt;module&gt;&#10;    xdados = np.array(sh1.col_values(1))&#10;                      ^^^^^^^^^^^^^^&#10;  File &quot;D:\Program Files\Python311\Lib\site-packages\pandas\core\generic.py&quot;, line 5989, in __getattr__&#10;    return object.__getattribute__(self, name)&#10;           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^&#10;AttributeError: 'DataFrame' object has no attribute 'col_values'. Did you mean: '_values'?" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Desculpe pelo erro. Parece que você está tentando acessar o método `col_values()` em um objeto DataFrame do pandas, mas esse método não existe. O erro sugere que você pode querer usar o método `_values` em vez disso.&#10;&#10;Para acessar os valores de uma coluna em um DataFrame do pandas, você pode usar a seguinte sintaxe:&#10;&#10;```python&#10;xdados = sh1['nome_da_coluna'].values&#10;```&#10;&#10;Substitua `'nome_da_coluna'` pelo nome da coluna que você deseja acessar. Por exemplo, se você quiser acessar a segunda coluna, você pode usar:&#10;&#10;```python&#10;xdados = sh1.iloc[:, 1].values&#10;```&#10;&#10;Certifique-se de substituir `1` pelo índice correto da coluna que você deseja acessar.&#10;&#10;Espero que isso ajude! Se você tiver mais perguntas, sinta-se à vontade para perguntar." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1709003179880" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_IV/Aula_1_Regressao.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
         <entry key="f29c57">
           <value>
             <ChatHistoryModel>
@@ -473,19 +965,47 @@
             </ChatHistoryModel>
           </value>
         </entry>
+        <entry key="f6fe78">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_III/Aula_4_Algoritmos_de_Classificacao.py" />
+                </list>
+              </option>
+              <option name="id" value="f6fe78" />
+              <option name="initiateTms" value="1708740442490" />
+              <option name="request" value="qual a fórmula da acurácia:" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="A fórmula da acurácia é bastante simples. Ela é calculada dividindo o número de previsões corretas pelo número total de previsões. A fórmula da acurácia é:&#10;&#10;Acurácia = (Verdadeiros Positivos + Verdadeiros Negativos) / (Verdadeiros Positivos + Falsos Positivos + Verdadeiros Negativos + Falsos Negativos)&#10;&#10;Onde:&#10;- Verdadeiros Positivos são os exemplos positivos corretamente classificados.&#10;- Verdadeiros Negativos são os exemplos negativos corretamente classificados.&#10;- Falsos Positivos são os exemplos negativos erroneamente classificados como positivos.&#10;- Falsos Negativos são os exemplos positivos erroneamente classificados como negativos.&#10;&#10;A acurácia é uma métrica importante para avaliar a qualidade geral de um modelo de classificação, pois indica a proporção de previsões corretas em relação ao total de previsões. No entanto, é importante considerar outras métricas, como precisão e recall, dependendo do contexto do problema." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1708740446050" />
+              <option name="usedLocalFilePaths">
+                <list>
+                  <option value="$PROJECT_DIR$/Unidade_III/Aula_4_Algoritmos_de_Classificacao.py" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/MachineLearningI$Aula_4_Redes_neurais.coverage" NAME="Aula_4_Redes_neurais Coverage Results" MODIFIED="1707534668741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_I" />
-    <SUITE FILE_PATH="coverage/MachineLearningI$Aula_3_Densidades_probabilisticas.coverage" NAME="Aula_3_Densidades_probabilisticas Coverage Results" MODIFIED="1707439309723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_I" />
+    <SUITE FILE_PATH="coverage/MachineLearningI$Aula_4_Algoritmos_de_Classificacao.coverage" NAME="Aula_4_Algoritmos_de_Classificacao Coverage Results" MODIFIED="1708742594510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_III" />
     <SUITE FILE_PATH="coverage/MachineLearningI$Aula_3_Decisao_em_ML.coverage" NAME="Aula_3_Decisao_em_ML Coverage Results" MODIFIED="1708059654001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_II" />
+    <SUITE FILE_PATH="coverage/MachineLearningI$Aula_3_Densidades_probabilisticas.coverage" NAME="Aula_3_Densidades_probabilisticas Coverage Results" MODIFIED="1707439309723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_I" />
+    <SUITE FILE_PATH="coverage/MachineLearningI$Aula_4_Modelos_de_selecao.coverage" NAME="Aula_4_Modelos_de_selecao Coverage Results" MODIFIED="1708143108419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_II" />
+    <SUITE FILE_PATH="coverage/MachineLearningI$Aula_3_Distribuicoes_Probabilisticas.coverage" NAME="Aula_3_Distribuicoes_Probabilisticas Coverage Results" MODIFIED="1708405922462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_III" />
+    <SUITE FILE_PATH="coverage/MachineLearningI$Aula_4_Redes_neurais.coverage" NAME="Aula_4_Redes_neurais Coverage Results" MODIFIED="1707534668741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_I" />
+    <SUITE FILE_PATH="coverage/MachineLearningI$Aula_2_Transformacoes_lineares.coverage" NAME="Aula_2_Transformacoes_lineares Coverage Results" MODIFIED="1708665517928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_III" />
     <SUITE FILE_PATH="coverage/MachineLearningI$Aula_1_Introducao_ao_aprendizado_de_maquina.coverage" NAME="Aula_1_Introducao_ao_aprendizado_de_maquina Coverage Results" MODIFIED="1707285976015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_I" />
     <SUITE FILE_PATH="coverage/MachineLearningI$Aula_2_Modelos_de_aprendizagem_de_maquina.coverage" NAME="Aula_2_Modelos_de_aprendizagem_de_maquina Coverage Results" MODIFIED="1707286105873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_I" />
     <SUITE FILE_PATH="coverage/MachineLearningI$Aula_2_Probabilidade_Bayesiana.coverage" NAME="Aula_2_Probabilidade_Bayesiana Coverage Results" MODIFIED="1707885166314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_II" />
     <SUITE FILE_PATH="coverage/MachineLearningI$Aula_3_Clusterizacao.coverage" NAME="Aula_3_Clusterizacao Coverage Results" MODIFIED="1708665328773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_III" />
-    <SUITE FILE_PATH="coverage/MachineLearningI$Aula_4_Modelos_de_selecao.coverage" NAME="Aula_4_Modelos_de_selecao Coverage Results" MODIFIED="1708143108419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_II" />
     <SUITE FILE_PATH="coverage/MachineLearningI$Aula_1_Teoria_da_probabilidade.coverage" NAME="Aula_1_Teoria_da_probabilidade Coverage Results" MODIFIED="1707753573223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_II" />
-    <SUITE FILE_PATH="coverage/MachineLearningI$Aula_3_Distribuicoes_Probabilisticas.coverage" NAME="Aula_3_Distribuicoes_Probabilisticas Coverage Results" MODIFIED="1708405922462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_III" />
+    <SUITE FILE_PATH="coverage/MachineLearningI$Aula_2_Classificacao.coverage" NAME="Aula_2_Classificacao Coverage Results" MODIFIED="1709094153388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_IV" />
+    <SUITE FILE_PATH="coverage/MachineLearningI$Aula_1_Regressao.coverage" NAME="Aula_1_Regressao Coverage Results" MODIFIED="1709006620536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Unidade_IV" />
   </component>
 </project>
