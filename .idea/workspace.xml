@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2782bf78-f43b-45e5-91d6-2e8dc079138c" name="Changes" comment="Unidade_IV_2">
+    <list default="true" id="2782bf78-f43b-45e5-91d6-2e8dc079138c" name="Changes" comment="Unidade_IV_3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,35 +52,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Aula_1_Introducao_ao_aprendizado_de_maquina.executor": "Run",
-    "Python.Aula_1_Regressao.executor": "Run",
-    "Python.Aula_1_Teoria_da_probabilidade.executor": "Run",
-    "Python.Aula_2_Classificacao.executor": "Run",
-    "Python.Aula_2_Modelos_de_aprendizagem_de_maquina.executor": "Run",
-    "Python.Aula_2_Probabilidade_Bayesiana.executor": "Run",
-    "Python.Aula_2_Transformacoes_lineares.executor": "Run",
-    "Python.Aula_3_Clusterizacao.executor": "Run",
-    "Python.Aula_3_Decisao_em_ML.executor": "Run",
-    "Python.Aula_3_Densidades_probabilisticas.executor": "Run",
-    "Python.Aula_3_Distribuicoes_Probabilisticas.executor": "Run",
-    "Python.Aula_4_Algoritmos_de_Classificacao.executor": "Run",
-    "Python.Aula_4_Modelos_de_selecao.executor": "Run",
-    "Python.Aula_4_Redes_neurais.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "G:/.shortcut-targets-by-id/1-0eJugp2mhHVgylXYxSrV79OPbp72CNB/Cloud Drive/Documentos/Arquivos PDF, PPT, DOC/Ciências de Dados - Anhanguera Ampli/Inteligência Artificial/Machine Learning I/MachineLearningI",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "indent.rainbow.settings.IrConfigurableAdvanced",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Aula_1_Introducao_ao_aprendizado_de_maquina.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula_1_Regressao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula_1_Teoria_da_probabilidade.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula_2_Classificacao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula_2_Modelos_de_aprendizagem_de_maquina.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula_2_Probabilidade_Bayesiana.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula_2_Transformacoes_lineares.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula_3_Clusterizacao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula_3_Decisao_em_ML.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula_3_Densidades_probabilisticas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula_3_Distribuicoes_Probabilisticas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula_4_Algoritmos_de_Classificacao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula_4_Modelos_de_selecao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Aula_4_Redes_neurais.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/.shortcut-targets-by-id/1-0eJugp2mhHVgylXYxSrV79OPbp72CNB/Cloud Drive/Documentos/Arquivos PDF, PPT, DOC/Ciências de Dados - Anhanguera Ampli/Inteligência Artificial/Machine Learning I/MachineLearningI&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;indent.rainbow.settings.IrConfigurableAdvanced&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\.shortcut-targets-by-id\1-0eJugp2mhHVgylXYxSrV79OPbp72CNB\Cloud Drive\Documentos\Arquivos PDF, PPT, DOC\Ciências de Dados - Anhanguera Ampli\Inteligência Artificial\Machine Learning I\MachineLearningI\Unidade_II" />
@@ -215,7 +215,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
       </set>
     </attachedChunks>
   </component>
@@ -260,7 +260,8 @@
       <workItem from="1709245708812" duration="211000" />
       <workItem from="1709246538229" duration="68000" />
       <workItem from="1709251060559" duration="3705000" />
-      <workItem from="1709260062305" duration="6560000" />
+      <workItem from="1709260062305" duration="6604000" />
+      <workItem from="1709337757125" duration="6376000" />
     </task>
     <task id="LOCAL-00001" summary="Unidade_I">
       <option name="closed" value="true" />
@@ -342,7 +343,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709095688386</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Unidade_IV_3">
+      <option name="closed" value="true" />
+      <created>1709270778895</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709270778895</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,7 +377,8 @@
     <MESSAGE value="Unidade_III_3" />
     <MESSAGE value="Unidade_III_4" />
     <MESSAGE value="Unidade_IV_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Unidade_IV_2" />
+    <MESSAGE value="Unidade_IV_3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Unidade_IV_3" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
